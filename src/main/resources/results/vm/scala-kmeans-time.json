@@ -1,0 +1,470 @@
+{
+  "benchmarks": ["scala-kmeans"],
+  "format_version": 5,
+  "data": {
+    "scala-kmeans": {
+      "results": [{
+        "duration_ns": 187724251,
+        "jmx_timers_compilation_time_ms": 221,
+        "jmx_timers_compilation_total_ms": 566,
+        "uptime_ns": 588789629
+      }, {
+        "duration_ns": 145204137,
+        "jmx_timers_compilation_time_ms": 19,
+        "jmx_timers_compilation_total_ms": 587,
+        "uptime_ns": 790101768
+      }, {
+        "duration_ns": 146061962,
+        "jmx_timers_compilation_time_ms": 19,
+        "jmx_timers_compilation_total_ms": 607,
+        "uptime_ns": 954342538
+      }, {
+        "duration_ns": 146092597,
+        "jmx_timers_compilation_time_ms": 2,
+        "jmx_timers_compilation_total_ms": 610,
+        "uptime_ns": 1116345399
+      }, {
+        "duration_ns": 153940711,
+        "jmx_timers_compilation_time_ms": 32,
+        "jmx_timers_compilation_total_ms": 643,
+        "uptime_ns": 1277744930
+      }, {
+        "duration_ns": 146304560,
+        "jmx_timers_compilation_time_ms": 0,
+        "jmx_timers_compilation_total_ms": 653,
+        "uptime_ns": 1441595540
+      }, {
+        "duration_ns": 144906557,
+        "jmx_timers_compilation_time_ms": 0,
+        "jmx_timers_compilation_total_ms": 653,
+        "uptime_ns": 1600836572
+      }, {
+        "duration_ns": 144700244,
+        "jmx_timers_compilation_time_ms": 1,
+        "jmx_timers_compilation_total_ms": 655,
+        "uptime_ns": 1762615237
+      }, {
+        "duration_ns": 151746307,
+        "jmx_timers_compilation_time_ms": 16,
+        "jmx_timers_compilation_total_ms": 672,
+        "uptime_ns": 1923406434
+      }, {
+        "duration_ns": 144428369,
+        "jmx_timers_compilation_time_ms": 1,
+        "jmx_timers_compilation_total_ms": 673,
+        "uptime_ns": 2084121070
+      }, {
+        "duration_ns": 144891517,
+        "jmx_timers_compilation_time_ms": 0,
+        "jmx_timers_compilation_total_ms": 673,
+        "uptime_ns": 2239513256
+      }, {
+        "duration_ns": 144255642,
+        "jmx_timers_compilation_time_ms": 1,
+        "jmx_timers_compilation_total_ms": 688,
+        "uptime_ns": 2398737466
+      }, {
+        "duration_ns": 151848037,
+        "jmx_timers_compilation_time_ms": 15,
+        "jmx_timers_compilation_total_ms": 704,
+        "uptime_ns": 2557370310
+      }, {
+        "duration_ns": 144246221,
+        "jmx_timers_compilation_time_ms": 2,
+        "jmx_timers_compilation_total_ms": 707,
+        "uptime_ns": 2718039403
+      }, {
+        "duration_ns": 144423039,
+        "jmx_timers_compilation_time_ms": 1,
+        "jmx_timers_compilation_total_ms": 719,
+        "uptime_ns": 2872977110
+      }, {
+        "duration_ns": 143873929,
+        "jmx_timers_compilation_time_ms": 15,
+        "jmx_timers_compilation_total_ms": 751,
+        "uptime_ns": 3033775765
+      }, {
+        "duration_ns": 152541688,
+        "jmx_timers_compilation_time_ms": 0,
+        "jmx_timers_compilation_total_ms": 752,
+        "uptime_ns": 3191906695
+      }, {
+        "duration_ns": 146264407,
+        "jmx_timers_compilation_time_ms": 0,
+        "jmx_timers_compilation_total_ms": 753,
+        "uptime_ns": 3356095278
+      }, {
+        "duration_ns": 144773925,
+        "jmx_timers_compilation_time_ms": 0,
+        "jmx_timers_compilation_total_ms": 753,
+        "uptime_ns": 3515299129
+      }, {
+        "duration_ns": 144576481,
+        "jmx_timers_compilation_time_ms": 2,
+        "jmx_timers_compilation_total_ms": 755,
+        "uptime_ns": 3674906606
+      }, {
+        "duration_ns": 151971881,
+        "jmx_timers_compilation_time_ms": 0,
+        "jmx_timers_compilation_total_ms": 769,
+        "uptime_ns": 3834195667
+      }, {
+        "duration_ns": 145469497,
+        "jmx_timers_compilation_time_ms": 1,
+        "jmx_timers_compilation_total_ms": 770,
+        "uptime_ns": 3995075813
+      }, {
+        "duration_ns": 145159082,
+        "jmx_timers_compilation_time_ms": 3,
+        "jmx_timers_compilation_total_ms": 773,
+        "uptime_ns": 4152183499
+      }, {
+        "duration_ns": 148124710,
+        "jmx_timers_compilation_time_ms": 1,
+        "jmx_timers_compilation_total_ms": 774,
+        "uptime_ns": 4311614438
+      }, {
+        "duration_ns": 150807944,
+        "jmx_timers_compilation_time_ms": 0,
+        "jmx_timers_compilation_total_ms": 774,
+        "uptime_ns": 4473863373
+      }, {
+        "duration_ns": 144132940,
+        "jmx_timers_compilation_time_ms": 5,
+        "jmx_timers_compilation_total_ms": 779,
+        "uptime_ns": 4633352545
+      }, {
+        "duration_ns": 146645463,
+        "jmx_timers_compilation_time_ms": 2,
+        "jmx_timers_compilation_total_ms": 781,
+        "uptime_ns": 4789252929
+      }, {
+        "duration_ns": 145434973,
+        "jmx_timers_compilation_time_ms": 2,
+        "jmx_timers_compilation_total_ms": 783,
+        "uptime_ns": 4950260530
+      }, {
+        "duration_ns": 151112288,
+        "jmx_timers_compilation_time_ms": 1,
+        "jmx_timers_compilation_total_ms": 784,
+        "uptime_ns": 5109809808
+      }, {
+        "duration_ns": 145525355,
+        "jmx_timers_compilation_time_ms": 0,
+        "jmx_timers_compilation_total_ms": 784,
+        "uptime_ns": 5269797654
+      }, {
+        "duration_ns": 148409934,
+        "jmx_timers_compilation_time_ms": 13,
+        "jmx_timers_compilation_total_ms": 797,
+        "uptime_ns": 5426882281
+      }, {
+        "duration_ns": 144010275,
+        "jmx_timers_compilation_time_ms": 0,
+        "jmx_timers_compilation_total_ms": 797,
+        "uptime_ns": 5589459372
+      }, {
+        "duration_ns": 152396233,
+        "jmx_timers_compilation_time_ms": 0,
+        "jmx_timers_compilation_total_ms": 825,
+        "uptime_ns": 5747672196
+      }, {
+        "duration_ns": 145494070,
+        "jmx_timers_compilation_time_ms": 5,
+        "jmx_timers_compilation_total_ms": 830,
+        "uptime_ns": 5908814266
+      }, {
+        "duration_ns": 144865465,
+        "jmx_timers_compilation_time_ms": 1,
+        "jmx_timers_compilation_total_ms": 831,
+        "uptime_ns": 6064935727
+      }, {
+        "duration_ns": 146220680,
+        "jmx_timers_compilation_time_ms": 3,
+        "jmx_timers_compilation_total_ms": 849,
+        "uptime_ns": 6225460869
+      }, {
+        "duration_ns": 151729376,
+        "jmx_timers_compilation_time_ms": 0,
+        "jmx_timers_compilation_total_ms": 849,
+        "uptime_ns": 6386003275
+      }, {
+        "duration_ns": 144406150,
+        "jmx_timers_compilation_time_ms": 1,
+        "jmx_timers_compilation_total_ms": 858,
+        "uptime_ns": 6546481767
+      }, {
+        "duration_ns": 144104173,
+        "jmx_timers_compilation_time_ms": 0,
+        "jmx_timers_compilation_total_ms": 858,
+        "uptime_ns": 6702290873
+      }, {
+        "duration_ns": 144591229,
+        "jmx_timers_compilation_time_ms": 2,
+        "jmx_timers_compilation_total_ms": 860,
+        "uptime_ns": 6860921140
+      }, {
+        "duration_ns": 154227551,
+        "jmx_timers_compilation_time_ms": 0,
+        "jmx_timers_compilation_total_ms": 874,
+        "uptime_ns": 7019847189
+      }, {
+        "duration_ns": 144540222,
+        "jmx_timers_compilation_time_ms": 1,
+        "jmx_timers_compilation_total_ms": 875,
+        "uptime_ns": 7182684954
+      }, {
+        "duration_ns": 144109271,
+        "jmx_timers_compilation_time_ms": 2,
+        "jmx_timers_compilation_total_ms": 877,
+        "uptime_ns": 7338873327
+      }, {
+        "duration_ns": 143789870,
+        "jmx_timers_compilation_time_ms": 0,
+        "jmx_timers_compilation_total_ms": 877,
+        "uptime_ns": 7497009975
+      }, {
+        "duration_ns": 151370298,
+        "jmx_timers_compilation_time_ms": 0,
+        "jmx_timers_compilation_total_ms": 877,
+        "uptime_ns": 7654922148
+      }, {
+        "duration_ns": 146153282,
+        "jmx_timers_compilation_time_ms": 1,
+        "jmx_timers_compilation_total_ms": 878,
+        "uptime_ns": 7814820720
+      }, {
+        "duration_ns": 144995601,
+        "jmx_timers_compilation_time_ms": 0,
+        "jmx_timers_compilation_total_ms": 878,
+        "uptime_ns": 7971613747
+      }, {
+        "duration_ns": 144820166,
+        "jmx_timers_compilation_time_ms": 0,
+        "jmx_timers_compilation_total_ms": 878,
+        "uptime_ns": 8130663927
+      }, {
+        "duration_ns": 153398865,
+        "jmx_timers_compilation_time_ms": 0,
+        "jmx_timers_compilation_total_ms": 879,
+        "uptime_ns": 8289557761
+      }, {
+        "duration_ns": 147437656,
+        "jmx_timers_compilation_time_ms": 16,
+        "jmx_timers_compilation_total_ms": 895,
+        "uptime_ns": 8451500942
+      }],
+      "termination": "normal"
+    }
+  },
+  "environment": {
+    "os": {
+      "virt_mem_committed": 12567228416,
+      "name": "Linux",
+      "open_fd_count": 17,
+      "available_processors": 16,
+      "phys_mem_total": 33657839616,
+      "version": "5.15.0-67-generic",
+      "arch": "amd64",
+      "max_fd_count": 1048576,
+      "swap_space_free": 0,
+      "phys_mem_free": 30710169600,
+      "swap_space_total": 0
+    },
+    "vm": {
+      "termination": "normal",
+      "name": "OpenJDK 64-Bit Server VM",
+      "classloading": {
+        "class_count": 2574,
+        "classes_total": 2574
+      },
+      "mode": "mixed mode, sharing",
+      "args": [],
+      "vendor": "Ubuntu",
+      "spec_vendor": "Oracle Corporation",
+      "spec_name": "Java Virtual Machine Specification",
+      "compiler": {
+        "name": "HotSpot 64-Bit Tiered Compilers",
+        "compilation_time_ms": 938
+      },
+      "start_iso": "2023-03-21T22:33:05.257Z",
+      "collectors": [{
+        "name": "G1 Young Generation",
+        "collection_count": 53,
+        "collection_time_ms": 72
+      }, {
+        "name": "G1 Old Generation",
+        "collection_count": 50,
+        "collection_time_ms": 577
+      }],
+      "start_unix_ms": 1679437985257,
+      "version": "11.0.18+10-post-Ubuntu-0ubuntu122.04",
+      "pools": [{
+        "name": "CodeHeap 'non-nmethods'",
+        "type": "NON_HEAP",
+        "usage": {
+          "init": 2555904,
+          "used": 2999936,
+          "committed": 3080192,
+          "max": 7598080
+        },
+        "peak_usage": {
+          "init": 2555904,
+          "used": 3009280,
+          "committed": 3080192,
+          "max": 7598080
+        }
+      }, {
+        "name": "Metaspace",
+        "type": "NON_HEAP",
+        "usage": {
+          "init": 0,
+          "used": 14124992,
+          "committed": 16121856,
+          "max": -1
+        },
+        "peak_usage": {
+          "init": 0,
+          "used": 14124992,
+          "committed": 16121856,
+          "max": -1
+        }
+      }, {
+        "name": "CodeHeap 'profiled nmethods'",
+        "type": "NON_HEAP",
+        "usage": {
+          "init": 2555904,
+          "used": 3504128,
+          "committed": 3538944,
+          "max": 122028032
+        },
+        "peak_usage": {
+          "init": 2555904,
+          "used": 3504128,
+          "committed": 3538944,
+          "max": 122028032
+        }
+      }, {
+        "name": "Compressed Class Space",
+        "type": "NON_HEAP",
+        "usage": {
+          "init": 0,
+          "used": 2065576,
+          "committed": 2490368,
+          "max": 1073741824
+        },
+        "peak_usage": {
+          "init": 0,
+          "used": 2065576,
+          "committed": 2490368,
+          "max": 1073741824
+        }
+      }, {
+        "name": "G1 Eden Space",
+        "type": "HEAP",
+        "usage": {
+          "init": 27262976,
+          "used": 39845888,
+          "committed": 67108864,
+          "max": -1
+        },
+        "peak_usage": {
+          "init": 27262976,
+          "used": 67108864,
+          "committed": 327155712,
+          "max": -1
+        }
+      }, {
+        "name": "G1 Old Gen",
+        "type": "HEAP",
+        "usage": {
+          "init": 499122176,
+          "used": 25255080,
+          "committed": 48234496,
+          "max": 8415870976
+        },
+        "peak_usage": {
+          "init": 499122176,
+          "used": 27048808,
+          "committed": 499122176,
+          "max": 8415870976
+        }
+      }, {
+        "name": "G1 Survivor Space",
+        "type": "HEAP",
+        "usage": {
+          "init": 0,
+          "used": 4194304,
+          "committed": 4194304,
+          "max": -1
+        },
+        "peak_usage": {
+          "init": 0,
+          "used": 4194304,
+          "committed": 4194304,
+          "max": -1
+        }
+      }, {
+        "name": "CodeHeap 'non-profiled nmethods'",
+        "type": "NON_HEAP",
+        "usage": {
+          "init": 2555904,
+          "used": 666880,
+          "committed": 2555904,
+          "max": 122032128
+        },
+        "peak_usage": {
+          "init": 2555904,
+          "used": 666880,
+          "committed": 2555904,
+          "max": 122032128
+        }
+      }],
+      "uptime_ms": 8654,
+      "compressed_oops_mode": "Zero based",
+      "threads": {
+        "thread_count": 5,
+        "thread_count_max": 6,
+        "daemon_thread_count": 4,
+        "threads_total": 55
+      },
+      "spec_version": "11",
+      "memory": {
+        "heap_usage": {
+          "init": 526385152,
+          "used": 69295272,
+          "committed": 119537664,
+          "max": 8415870976
+        },
+        "nonheap_usage": {
+          "init": 7667712,
+          "used": 23295872,
+          "committed": 27787264,
+          "max": -1
+        },
+        "pending_finalization_count": 0
+      }
+    },
+    "jre": {
+      "java_version": "11.0.18",
+      "name": "OpenJDK Runtime Environment",
+      "class_path": ["mit.jar"],
+      "spec_version": "11",
+      "spec_vendor": "Oracle Corporation",
+      "spec_name": "Java Platform API Specification",
+      "home": "/usr/lib/jvm/java-11-openjdk-amd64",
+      "version": "11.0.18+10-post-Ubuntu-0ubuntu122.04",
+      "java_vendor": "Ubuntu",
+      "library_path": ["/usr/java/packages/lib", "/usr/lib/x86_64-linux-gnu/jni", "/lib/x86_64-linux-gnu", "/usr/lib/x86_64-linux-gnu", "/usr/lib/jni", "/lib", "/usr/lib"]
+    }
+  },
+  "suite": {
+    "git": {
+      "commit_hash": null,
+      "commit_date": null,
+      "dirty": "true"
+    },
+    "name": null,
+    "version": null
+  }
+}
